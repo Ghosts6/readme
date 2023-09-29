@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is kiarash and I'm a back-end developer from iran,am 19 and i study computer science</h2>
+<h2 align="left">Hi 👋! My name is kiarash and I'm a back-end developer from iran,am 20 and i study computer science,i choice backend beacuse i like web and hard work i also had a little knowledge and experience about software.</h2>
 
 ###
 
